@@ -1,0 +1,13 @@
+C:\Users\Korisnik\source\repos\Arhitekture_drugi_projektni\bin\Debug\netcoreapp3.1\Arhitekture_drugi_projektni.exe
+C:\Users\Korisnik\source\repos\Arhitekture_drugi_projektni\bin\Debug\netcoreapp3.1\Arhitekture_drugi_projektni.deps.json
+C:\Users\Korisnik\source\repos\Arhitekture_drugi_projektni\bin\Debug\netcoreapp3.1\Arhitekture_drugi_projektni.runtimeconfig.json
+C:\Users\Korisnik\source\repos\Arhitekture_drugi_projektni\bin\Debug\netcoreapp3.1\Arhitekture_drugi_projektni.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\Arhitekture_drugi_projektni\bin\Debug\netcoreapp3.1\Arhitekture_drugi_projektni.dll
+C:\Users\Korisnik\source\repos\Arhitekture_drugi_projektni\bin\Debug\netcoreapp3.1\Arhitekture_drugi_projektni.pdb
+C:\Users\Korisnik\source\repos\Arhitekture_drugi_projektni\obj\Debug\netcoreapp3.1\Arhitekture_drugi_projektni.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Arhitekture_drugi_projektni\obj\Debug\netcoreapp3.1\Arhitekture_drugi_projektni.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\Arhitekture_drugi_projektni\obj\Debug\netcoreapp3.1\Arhitekture_drugi_projektni.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\Arhitekture_drugi_projektni\obj\Debug\netcoreapp3.1\Arhitekture_drugi_projektni.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Arhitekture_drugi_projektni\obj\Debug\netcoreapp3.1\Arhitekture_drugi_projektni.dll
+C:\Users\Korisnik\source\repos\Arhitekture_drugi_projektni\obj\Debug\netcoreapp3.1\Arhitekture_drugi_projektni.pdb
+C:\Users\Korisnik\source\repos\Arhitekture_drugi_projektni\obj\Debug\netcoreapp3.1\Arhitekture_drugi_projektni.genruntimeconfig.cache
